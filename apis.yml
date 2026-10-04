@@ -39,7 +39,6 @@ apis:
   - name: Micro Weather
     description: "Real time weather forecasts and historic data"
     humanURL: https://m3o.com/weather/api
-    baseURL: https://m3o.com/weather/api
     tags:
       - Weather
     properties:
